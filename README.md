@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Elisha!  
+### 🚀 Software Developer | AWS | Full Stack | Problem Solver  
 
-<!--
-**elisha148/elisha148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **About Me:**  
+- 🎓 Engineering Graduate | Passionate about Software Development  
+- 🔭 Currently learning **AWS, .NET, React, and Spring**  
+- 🏆 Certified in **AWS, Azure, Cybersecurity, SQL**  
+- 📚 Exploring **Generative AI & Cloud Computing**  
+- 🌱 Open to collaboration on exciting projects  
 
-Here are some ideas to get you started:
+💻 **Tech Stack:**  
+- **Languages:** Java, JavaScript, C  
+- **Frontend:** HTML, CSS, Angular, React  
+- **Backend:** Spring Boot, .NET, Node.js  
+- **Database:** SQL, MongoDB  
+- **Cloud:** AWS (Lambda, S3, EC2), Azure  
+- **Tools:** Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Pinned Projects:**  
+- 🖼 **AWS SDK Image Processing Project** – *Coming soon...*  
+- 📂 **Portfolio Website** – *Coming soon...*  
+- 🖥 **Full-Stack CRUD App** – *Coming soon...*  
+ 
+
+📫 **Connect With Me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/elisharajubarre67/)  
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=for-the-badge)](https://github.com/elisha148)  
